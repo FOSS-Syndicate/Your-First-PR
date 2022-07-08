@@ -1,2 +1,8 @@
 # Your-First-PR
-A respository for newbies to make their first PR
+This respository is for the newbies to make their first Pull Request and for the new member to introduce themselves to the other members in the organization
+
+## Creating Your First PR
+For the first PR you you can add your name in the PR.md file in Pull Requesters directory
+
+## Introducing Yourselves
+You can create a md file with your name in the 'Members' directory and use the format in Template.md to fill your details
