@@ -5,4 +5,4 @@ This respository is for the newbies to make their first Pull Request and for the
 For the first PR you you can add your name in the PR.md file in Pull Requesters directory
 
 ## Introducing Yourselves
-You can create a md file with your name in the 'Members' directory and use the format in Template.md to fill your details
+Inside the members directory you can create a directory in your name and inside that directory you can create a md file with your name. Use the format in the Template.md to fill you details
