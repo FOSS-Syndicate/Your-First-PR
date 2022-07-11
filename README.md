@@ -6,3 +6,10 @@ For the first PR you you can add your name in the PR.md file in Pull Requesters 
 
 ## Introducing Yourselves
 Inside the members directory you can create a directory in your name and inside that directory you can create a md file with your name. Use the format in the Template.md to fill you details
+
+## Current Members
+
+- [Asha-Viviana](./Members/Asha-Viviana/Asha-Viviana.md)
+- [Shemar-Mraz](./Members/Shemar-Mraz/Shemar-Mraz.md)
+- [Yae-Mik](./Members/Yae-Mik/Yae-Mik.md)
+- [Shamal-Lakshan](./Members/Shamal-Lakshan/Shamal-Lakshan.md)
